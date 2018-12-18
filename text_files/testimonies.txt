@@ -1,0 +1,20 @@
+Testimony Relations
+
+Varun Arora -> Gary Wang
+Vivek Loganathan -> Michael Leu
+David Ju -> Tarun Sonti
+Alexander Burns -> David Leu
+Guruprasad Ramprakash -> David Ju
+Anci Sun -> Alexander Burns
+Anup Sonti -> Vivian Look
+Gary Wang -> Varun Arora
+Sara Hamilton -> Vivek Loganathan
+Aiswarya Loganathan -> Andy Cheon
+Andy Cheon -> Amber Loredo
+Vivian Look -> Sara Hamilton
+Amber Loredo -> Anci Sun
+Tarun Sonti -> Aiswarya Loganathan
+Grace Leu -> Anup Sonti
+Michael Leu -> Andrew Burns
+David Leu -> Grace Leu
+Andrew Burns -> Guruprasad Ramprakash
